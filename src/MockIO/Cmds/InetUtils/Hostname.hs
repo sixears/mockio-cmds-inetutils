@@ -1,4 +1,4 @@
-{-| Interface to the @findmnt@ cmdline utility. -}
+{-| Interface to the @hostname@ cmdline utility. -}
 module MockIO.Cmds.InetUtils.Hostname
   ( hostname )
 where
